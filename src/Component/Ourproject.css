@@ -1,0 +1,34 @@
+
+.ourproject-card{
+    margin-right: 1rem;
+    font-size: 14.5px;
+}
+
+.ourproject-main{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media only screen and (max-width:992px) {   
+    .ourproject-card{
+        margin-right: 1rem;
+        font-size: 14.5px;
+    }
+  
+}
+@media only screen and (max-width:768px) {  
+.ourproject-main{
+    display: flex;
+    flex-direction: column;
+     margin-left: 1rem; 
+    justify-content: center;
+    align-items: center;
+
+}
+.ourproject-card{
+ margin-bottom: 2rem;
+}
+}
+@media only screen and (max-width:600px) {   
+}

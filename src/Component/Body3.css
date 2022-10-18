@@ -1,0 +1,55 @@
+.card-1{
+    margin-right: 1rem;
+    font-size: 14.5px;
+   
+}
+
+.card-1_svg{
+    margin-left: 7.5rem;
+}
+.card-1_btn{
+width: 7rem;
+ margin-left: 5rem;
+
+}
+@media only screen and (max-width:992px) {
+.card-1{
+    margin-right: 1rem;
+    font-size: small;
+}
+.card-1_svg{
+    margin-left: 5rem;
+}
+.card-1_btn{
+margin-left: 2.5rem;
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width:768px) {
+    .body-3_main{
+        display: flex;
+        flex-direction: column;
+         margin-left: 1rem; 
+        justify-content: center;
+        align-items: center;
+    
+    } 
+    .card-1{
+    margin-bottom: 1.5rem;
+    }
+    .card-1_svg{
+        margin-left: 7.6rem;
+    }
+    .card-1_btn{
+    margin-left: 5.5rem;
+    }
+  
+   
+}
+@media only screen and (max-width:600px) {   
+}

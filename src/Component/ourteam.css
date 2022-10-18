@@ -1,0 +1,159 @@
+.ourteam-main{
+    display: flex;
+    justify-content: space-between;
+
+}
+.outeam-card1{
+font-size: small;
+
+
+}
+
+.card-img1{
+    max-width: 11rem;
+   margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+
+}
+.card-img2{
+    
+    
+    max-width: 11rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+
+}
+.card-img3{
+    max-width: 11rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+
+}
+.card-img4{
+    max-width: 11rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+}
+.outeam-card2{
+    font-size: small;
+    margin-left: 1rem;
+    }
+    .outeam-card3{
+        font-size: small;
+        margin-left: 1rem;
+        }
+        .outeam-card4{
+            font-size: small;
+            margin-left: 1rem;
+
+            }
+
+            @media only screen and (max-width:992px){
+                .outeam-card1{
+                    font-size: small;
+                    }
+                    .card-img1{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    
+                    }
+                    .card-img2{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    
+                    }
+                    .card-img3{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    
+                    }
+                    .card-img4{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    }
+                  
+                    .outeam-card2{
+                        font-size: small;
+                        margin-left: 1rem;
+                        }
+                        .outeam-card3{
+                            font-size: small;
+                            margin-left: 1rem;
+                            }
+                            .outeam-card4{
+                                font-size: small;
+                                margin-left: 1rem;
+                    
+                                }
+
+            }
+            @media only screen and (max-width:772px){
+                .ourteam-main{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+                .outeam-card1{
+                    margin-left: 1rem;
+                    margin-bottom: 2rem;
+    
+                    }
+                    
+                    .card-img1{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    
+                    
+                    }
+                    .card-img2{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    
+                    }
+                    .card-img3{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    
+                    }
+                    .card-img4{
+                        max-width: 8rem;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-top: 1rem;
+                    }
+                    .outeam-card2{
+                        font-size: small;
+                        margin-left: 1rem;
+                        margin-bottom: 2rem;
+                        }
+                        .outeam-card3{
+                            font-size: small;
+                            margin-left: 1rem;
+                            margin-bottom: 2rem;
+                            }
+                            .outeam-card4{
+                                font-size: small;
+                                margin-left: 1rem;
+                                margin-bottom: 2rem;
+                    
+                                }
+            }

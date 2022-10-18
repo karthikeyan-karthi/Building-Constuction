@@ -1,0 +1,44 @@
+.body-img{
+
+ 
+    display: flex;
+}
+@media only screen and (max-width:992px) {
+    .body-img{
+
+        display: flex;
+        
+    }
+    
+}
+
+@media only screen and (max-width:768px) {
+    .body-img{
+
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 5rem;   
+    }
+    .Body2content{
+        margin-right: 8rem;
+       text-align: center;
+    }
+    .body2img{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    
+  
+}
+@media only screen and (max-width:600px) {
+    .body-img{
+   
+        display: flex;
+    }
+      
+}
+
+
+
+
