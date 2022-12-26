@@ -1,3 +1,10 @@
+html{
+    scroll-snap-type: y proximity;
+}
+.project{
+    overflow: auto;
+    scroll-snap-align: center;
+}
 
 .ourproject-card{
     margin-right: 1rem;

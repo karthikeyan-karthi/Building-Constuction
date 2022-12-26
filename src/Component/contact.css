@@ -6,3 +6,10 @@
     }
 
 }
+html{
+    scroll-snap-type: y proximity;
+}
+.contact{
+    overflow: auto;
+    scroll-snap-align: center;
+}

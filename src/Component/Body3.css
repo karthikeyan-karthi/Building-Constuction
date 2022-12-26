@@ -53,3 +53,11 @@ margin-left: 2.5rem;
 }
 @media only screen and (max-width:600px) {   
 }
+
+html{
+    scroll-snap-type: y proximity;
+}
+.body-3{
+    overflow: auto;
+    scroll-snap-align: center;
+}

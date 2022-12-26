@@ -2,7 +2,7 @@ import {Container,Card,Button} from "react-bootstrap"
 import "../Component/Ourproject.css"
 export const OurProj=()=>{
     return(
-<Container>
+<Container   className='project' >
 <div className="text-center">
     <h3 className=""  style={{top:"100"}}  >Our Projects</h3>
     <p>Lorem ipsum dolor sit amet, consectetur <br /> ut illum soluta to Adipisci saepe</p>

@@ -1,9 +1,10 @@
 import React from "react";
 import { Container,Carousel, CarouselItem,Button } from "react-bootstrap";
+import "./Body2.css"
 
 export const  Carousbody=()=>{
     return(          
-<Carousel  >
+<Carousel className="body-1"  >
 <Carousel.Item >
 <img className="opacity-rgba(0,0,0,0.7)" style={{ width:"100%",height:"700px",}} src="src\assets\2.jpg" alt="" />
         <Carousel.Caption  style={{bottom:"230px"}}>

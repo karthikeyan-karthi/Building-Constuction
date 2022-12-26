@@ -3,7 +3,7 @@ import "../Component/ourteam.css";
 
 export const Ourtea = () => {
   return (
-    <Container>
+    <Container   className='team' >
       <div className="text-center">
         <h3 className="" style={{ top: "100" }}>
           Our Team

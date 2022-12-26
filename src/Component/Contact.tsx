@@ -4,7 +4,7 @@ import "../Component/contact.css"
 export const Contact=()=>{
 
     return(
-  <Container>
+  <Container  className='contact' >
      <div className="text-center">
     <h3 className=""  style={{top:"100"}}  >Contact Us</h3>
     <p>Lorem ipsum dolor sit amet, consectetur <br /> ut illum soluta to Adipisci saepe</p>

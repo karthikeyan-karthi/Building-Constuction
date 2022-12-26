@@ -157,3 +157,10 @@ font-size: small;
                     
                                 }
             }
+            html{
+                scroll-snap-type: y proximity;
+            }
+            .team{
+                overflow: auto;
+                scroll-snap-align: center;
+            }

@@ -2,7 +2,7 @@ import { Container, Card, Button, Row, Col } from "react-bootstrap"
 import "../Component/Body3.css"
 export const Bodycard = () => {
     return (
-        <Container >
+        <Container  className='body-3' >
             
             <div className="text-center">
                 <h3 className="" style={{ top: "100" }}  >Our Service</h3>
